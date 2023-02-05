@@ -2738,6 +2738,10 @@ checkpoint-store@^1.1.0:
   dependencies:
     functional-red-black-tree "^1.0.1"
 
+cid@multiformats/cid:
+  version "0.0.0"
+  resolved "https://codeload.github.com/multiformats/cid/tar.gz/88a5a1ad55a6a8e1eac15ac7fc789a00a075ca17"
+
 cids@^1.0.0, cids@^1.1.6:
   version "1.1.9"
   resolved "https://registry.yarnpkg.com/cids/-/cids-1.1.9.tgz#402c26db5c07059377bcd6fb82f2a24e7f2f4a4f"
@@ -5080,7 +5084,7 @@ multicodec@^3.0.1:
     uint8arrays "^3.0.0"
     varint "^6.0.0"
 
-multiformats@^11.0.0:
+multiformats@^11.0.0, multiformats@^11.0.1:
   version "11.0.1"
   resolved "https://registry.yarnpkg.com/multiformats/-/multiformats-11.0.1.tgz#ba58c3f69f032ab67dab4b48cc70f01ac2ca07fe"
   integrity sha512-atWruyH34YiknSdL5yeIir00EDlJRpHzELYQxG7Iy29eCyL+VrZHpPrX5yqlik3jnuqpLpRKVZ0SGVb9UzKaSA==
